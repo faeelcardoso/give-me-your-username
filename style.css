@@ -14,6 +14,9 @@ h1, h2 {
 h2 {
   color: #051094
 }
+input {
+  box-sizing: border-box;
+}
 #button {
   background-color: #051094;
   border: none;
